@@ -1,5 +1,5 @@
 import React from 'react';
-import './scss/SassComponent.scss';
+import './SassComponent.scss';
 
 const SassComponent = () => {
   return (
